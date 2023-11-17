@@ -1,4 +1,4 @@
-# [Your Name] - Chief Technology Officer (CTO)
+# Aditya Gautam - Chief Technology Officer (CTO)
 
 ## 👋 Hello, World!
 
