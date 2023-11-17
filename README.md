@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a seasoned Chief Technology Officer with a pas
 ## 🎤 Conference Talks and Publications
 
 - Speaker at [World blockchain summit] - Topic: [Blockchain and Finanace]
-- Tezos India [Tezos India Cohort] - Tutoring young Indian minds to build on top of blockchain 
+- Tezos India program lead [Tezos India Cohort] - Tutoring young Indian minds to build on top of blockchain 
 
 
 ## 📫 Let's Connect!
