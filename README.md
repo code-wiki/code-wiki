@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Gautam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=Aditya%20Gautam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Technical+Founder+%26+Engineering+Leader;AI+%E2%80%A2+Blockchain+%E2%80%A2+Full-Stack+%E2%80%A2+Product+Design;Building+systems+that+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Technical+Founder;AI+%E2%80%A2+Blockchain+%E2%80%A2+Full-Stack+%E2%80%A2+Product+Design;Building+systems+that+matter" alt="Typing SVG" />
 </h3>
 
 <p>
@@ -13,7 +13,7 @@
   <a href="mailto:aditya.gautam@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=code-wiki&label=Profile%20Views&color=F85D7F&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=code-wiki&label=Profile%20Views&color=2ECC71&style=flat" alt="Profile views" />
 
 </div>
 
@@ -29,7 +29,7 @@
 
 ```javascript
 const aditya = {
-    role: "Technical Founder & Engineering Leader",
+    role: "Technical Founder",
     experience: "10+ years",
     expertise: ["AI & Agentic Systems", "Blockchain & DeFi", "Full-Stack Engineering", "UX Design"],
     superpowers: [
@@ -175,17 +175,17 @@ Core contributor to Grommet UI
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=code-wiki&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=code-wiki&theme=radical&utcOffset=8" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=code-wiki&theme=dark&hide_border=true&background=0D1117&stroke=2ECC71&ring=27AE60&fire=2ECC71&currStreakLabel=27AE60" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=code-wiki&theme=github_dark&utcOffset=8" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-wiki&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F&area_color=F85D7F&area=true&hide_border=true">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-wiki&custom_title=Contribution%20Graph&bg_color=0D1117&color=2ECC71&line=27AE60&point=2ECC71&area_color=2ECC71&area=true&hide_border=true">
 
 <br/><br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=code-wiki&theme=radical" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=code-wiki&theme=radical" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=code-wiki&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=code-wiki&theme=github_dark" />
 
 </div>
 
@@ -234,7 +234,7 @@ Core contributor to Grommet UI
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" />
 
 ### 💎 "Building systems that matter. Designing experiences that delight. Shipping code that scales."
 
