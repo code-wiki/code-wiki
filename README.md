@@ -1,241 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=Aditya%20Gautam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=400&height=60&lines=Technical+Founder" alt="Typing SVG" />
-</h3>
-
-<p>
-  <a href="https://aditya-gautam.xyz"><img src="https://img.shields.io/badge/🌐_Portfolio-aditya--gautam.xyz-4CAF50?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/me-adi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/_aditya_gautam"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:aditya.gautam@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=code-wiki&label=Profile%20Views&color=2ECC71&style=flat" alt="Profile views" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0a,50:0d1117,100:0a0a0a&height=160&section=header&text=Aditya%20Gautam&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=55&desc=Chief%20Technology%20Officer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Technical%20Founder&descSize=14&descAlignY=80&descColor=64748b"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f8fafc,50:f1f5f9,100:f8fafc&height=160&section=header&text=Aditya%20Gautam&fontSize=52&fontColor=0f172a&animation=fadeIn&fontAlignY=55&desc=Chief%20Technology%20Officer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Technical%20Founder&descSize=14&descAlignY=80&descColor=475569"/>
+</picture>
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=32&lines=10%2B+years+building+AI+%26+blockchain+systems+from+0+%E2%86%92+1;Shipped+enterprise+AI+platforms+%7C+DeFi+protocols+%7C+dev+tooling;Bridging+deep+tech+with+exceptional+user+experience" alt="Typing SVG" />
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+<a href="https://aditya-gautam.xyz"><img src="https://img.shields.io/badge/aditya--gautam.xyz-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/me-adi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://x.com/_aditya_gautam"><img src="https://img.shields.io/badge/@_aditya_gautam-000000?style=flat-square&logo=x&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:aditya.gautam@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-```javascript
-const aditya = {
-    role: "Technical Founder",
-    experience: "10+ years",
-    expertise: ["AI & Agentic Systems", "Blockchain & DeFi", "Full-Stack Engineering", "UX Design"],
-    superpowers: [
-        "🧠 Architecting agentic AI systems",
-        "⛓️ Building DeFi protocols from scratch",
-        "🎨 Crafting pixel-perfect UX for complex systems",
-        "👥 Leading engineering teams 0→1",
-        "💼 Closing enterprise deals"
-    ],
-    philosophy: "Don't just code—design, architect, and ship complete systems",
-    currentFocus: "Enterprise AI platforms & next-gen blockchain infrastructure",
-    openTo: ["Technical founders", "Like-minded builders", "Ambitious innovators"]
-};
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20Agents-3B82F6?style=flat-square&labelColor=1e3a5f&color=3B82F6"/>
+<img src="https://img.shields.io/badge/DeFi%20%26%20Web3-8B5CF6?style=flat-square&labelColor=2d1b5f&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/Full--Stack-10B981?style=flat-square&labelColor=0a3f2b&color=10B981"/>
+<img src="https://img.shields.io/badge/Systems%20Architecture-F59E0B?style=flat-square&labelColor=3f2a00&color=F59E0B"/>
+
+</div>
+
+---
+
+## About
+
+I build at the intersection of **AI systems**, **blockchain infrastructure**, and **product engineering** — from architecture through to shipped, production-grade products.
+
+Over 10 years I've founded two companies, led engineering teams, closed enterprise contracts, and shipped across the full stack: agentic pipelines, DeFi protocols, cross-chain tooling, and developer-facing platforms.
+
+My edge is combining deep technical execution with product intuition and design craft — the ability to architect *and* ship *and* make it feel right.
+
+```
+Currently focused on  →  Enterprise AI platforms & next-gen blockchain infrastructure
+Open to connecting    →  Technical founders, ambitious builders, deep-tech innovators
+Working style         →  Design first. Architect deliberately. Ship fast. Iterate.
 ```
 
-<br/>
+---
 
-<div align="center">
+## Selected Work
 
-## 💫 Products I've Shipped
-
-</div>
-
-<table align="center">
+<table>
+<thead>
 <tr>
-<td width="50%" valign="top">
-
-### 🤖 Agentic AI Platform
-Enterprise-grade system for legacy code modernization
-
-**Tech:** LLMs • LangGraph • CrewAI • Multi-agent workflows
-
-**Impact:** Automated code analysis, refactoring & migration
-
-</td>
-<td width="50%" valign="top">
-
-### ⛓️ DeFi Protocol Suite
-Complete blockchain infrastructure on Tezos
-
-**Products:** DEX • Cross-chain bridges • Yield farms • Fundraising
-
-**Scale:** Leading platform adopted across APAC
-
-</td>
+<th>System</th>
+<th>Description</th>
+<th>Stack</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Enterprise Agentic AI Platform</strong></td>
+<td>Multi-agent system for automated legacy code modernization — analysis, refactoring, migration at scale. Closed significant enterprise contracts.</td>
+<td><code>LangGraph</code> <code>CrewAI</code> <code>LLMs</code> <code>RAG</code></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🎮 eSports Tournament Platform
-Real-time tracking & cross-chain payments
-
-**Innovation:** Bridged Web2 & Web3 seamlessly
-
-**Features:** Prize pools • Live tracking • Multi-chain support
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Developer Tooling
-Open-source tools for smart contract development
-
-**Products:** Tezster CLI/GUI • JS-to-OCaml compiler
-
-**Adoption:** Widely used by Tezos ecosystem
-
-</td>
+<td><strong>DeFi Protocol Suite</strong></td>
+<td>Full-stack blockchain infrastructure on Tezos: DEX, cross-chain bridges, yield farms, fundraising rails. Leading platform adopted across APAC.</td>
+<td><code>Tezos</code> <code>OCaml</code> <code>Solidity</code> <code>Polygon</code></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🎯 Enterprise Monitoring
-Real-time server traffic dashboard
-
-**For:** HPE enterprise infrastructure
-
-**UX:** Clean, information-dense design
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 UI Framework Contribution
-Core contributor to Grommet UI
-
-**Adoption:** Netflix • Samsung • HPE
-
-**Impact:** Production-grade React components
-
-</td>
+<td><strong>eSports Tournament Platform</strong></td>
+<td>Real-time cross-chain tournament system bridging Web2 UX with Web3 payments. Prize pools, live tracking, multi-chain support.</td>
+<td><code>React</code> <code>Node.js</code> <code>Multi-chain</code></td>
 </tr>
+<tr>
+<td><strong>Tezster CLI/GUI + JS→OCaml Compiler</strong></td>
+<td>Open-source developer tooling for smart contract development. Widely adopted across the Tezos ecosystem.</td>
+<td><code>TypeScript</code> <code>OCaml</code> <code>CLI</code></td>
+</tr>
+<tr>
+<td><strong>Grommet UI — Core Contributor</strong></td>
+<td>Production-grade React component contributions. Adopted by Netflix, Samsung, HPE in production systems.</td>
+<td><code>React</code> <code>Storybook</code> <code>Design Systems</code></td>
+</tr>
+<tr>
+<td><strong>HPE Enterprise Monitoring Dashboard</strong></td>
+<td>Real-time server traffic visualization for HPE enterprise infrastructure. Information-dense, clean UX under operational constraints.</td>
+<td><code>React</code> <code>D3</code> <code>WebSockets</code></td>
+</tr>
+</tbody>
 </table>
 
-<br/>
+---
+
+## Technical Depth
+
+**AI & Agentic Systems**
+```
+LangChain · LangGraph · CrewAI · RAG Pipelines · Vector Databases
+Multi-agent Orchestration · LLM Fine-tuning · Prompt Engineering
+```
+
+**Blockchain & Web3**
+```
+Ethereum · Solidity · Tezos · OCaml · Polygon · DeFi Primitives
+Cross-chain Bridges · AMMs · Tokenomics Design
+```
+
+**Full-Stack Engineering**
+```
+React · TypeScript · Node.js · Python · GraphQL · PostgreSQL
+Redis · Kafka · Elasticsearch · REST & gRPC APIs
+```
+
+**Infrastructure & DevOps**
+```
+AWS · Docker · Nginx · CI/CD Pipelines · System Design at Scale
+```
+
+**Design & Product**
+```
+Figma · Adobe XD · Design Systems · UX Architecture · Product Strategy
+```
+
+---
+
+## Recognition
+
+| | |
+|---|---|
+| 🏅 Nitor Brilliance Award — AI Innovation | 2024 |
+| 🏅 Developer of the Year | 2021 |
+| 🎤 Speaker — World Blockchain Summit | 2021 |
+| 🎙️ Guest — Coin Crunch & Voices of Tezos India | 2021 |
+| 🤝 Technical Advisor — Tezos Foundation, TriwebAPI, Polysports | 2019–2024 |
+| 🚀 Co-founded 2 startups, both shipped to production | 2020–2024 |
+| 💼 Closed significant enterprise AI contracts | 2024 |
+
+---
+
+## Approach
+
+I don't just write code — I think in systems. Every product I've shipped starts with a clear architectural vision, moves through deliberate design, and lands as something people actually want to use.
+
+I care about: **correctness** at the protocol level · **clarity** in API design · **craft** in the user experience layer · **speed** from idea to deployed system.
+
+---
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+**Building something exceptional? Let's talk.**
 
-<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,python,solidity,postgres,redis,kafka,docker,aws,figma,github&theme=dark" />
+<a href="mailto:aditya.gautam@email.com"><img src="https://img.shields.io/badge/Get%20in%20touch-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://aditya-gautam.xyz"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/><br/>
 
-**AI & Deep Tech** → LangChain • LangGraph • CrewAI • RAG • Vector DBs • LLMs
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=1&section=footer"/>
 
-**Blockchain & Web3** → Ethereum • Solidity • Tezos • OCaml • Polygon • DeFi
-
-**Full-Stack** → React • TypeScript • Node.js • Python • GraphQL • PostgreSQL • Kafka
-
-**Design & UX** → Figma • Adobe XD • UX Imagination • Product Design
-
-**Infrastructure** → AWS • Docker • Nginx • Elasticsearch
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🏆 Recognition & Impact
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
-<div align="center">
-
-| Achievement | Year |
-|-------------|------|
-| 🥇 **Nitor Brilliance Award for AI Innovation** | 2024 |
-| 🥇 **Developer of the Year Award** | 2021 |
-| 🎯 **Core Contributor to Grommet UI** (Netflix, Samsung, HPE) | 2018-2020 |
-| 🎤 **Speaker** — World Blockchain Summit | 2021 |
-| 🎙️ **Guest** — Coin Crunch & Voices of Tezos India | 2021 |
-| 🚀 **Co-founded 2 startups** → Both shipped to production | 2020-2024 |
-| 💼 **Closed significant enterprise AI contracts** | 2024 |
-| 👨‍💼 **Technical Advisor** — Tezos Foundation, TriwebAPI, Polysports | 2019-2024 |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=code-wiki&theme=dark&hide_border=true&background=0D1117&stroke=2ECC71&ring=27AE60&fire=2ECC71&currStreakLabel=27AE60" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=code-wiki&theme=github_dark&utcOffset=8" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-wiki&custom_title=Contribution%20Graph&bg_color=0D1117&color=2ECC71&line=27AE60&point=2ECC71&area_color=2ECC71&area=true&hide_border=true">
-
-<br/><br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=code-wiki&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=code-wiki&theme=github_dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🤝 Let's Build Together
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-
-**I love connecting with:**
-
-🚀 **Technical founders** building ambitious AI/Web3 products
-
-🧠 **Engineers** who obsess over beautiful code and UX
-
-💡 **Innovators** pushing the boundaries of what's possible
-
-🎨 **Builders** who care deeply about craft and execution
-
-<br/>
-
-**If you're creating something exceptional or just want to geek out about systems, AI, blockchain, or product design — I'm always down to connect.**
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 📬 Get In Touch
-
-<a href="mailto:aditya.gautam@email.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://aditya-gautam.xyz">
-  <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/me-adi">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/_aditya_gautam">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" />
-
-### 💎 "Building systems that matter. Designing experiences that delight. Shipping code that scales."
+<sub>Last updated · March 2026</sub>
 
 </div>
