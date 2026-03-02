@@ -106,8 +106,3 @@ I care about: **correctness** at the protocol level · **clarity** in API design
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=1&section=footer"/>
-
-<sub>Last updated · March 2026</sub>
-
-</div>
