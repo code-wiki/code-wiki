@@ -140,15 +140,29 @@ Built complete events and activities marketplace (Airbnb-style) from scratch for
 
 <div align="center">
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-wiki&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+<a href="https://github.com/code-wiki">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-wiki&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-wiki&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-wiki&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-wiki&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
+<a href="https://github.com/code-wiki">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-wiki&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
+</a>
 
 </div>
 
 
+## 🤝 Let's Build Together
+
+I love connecting with:
+- 🚀 **Technical founders** building ambitious AI/Web3 products
+- 🧠 **Engineers** who obsess over beautiful code and UX
+- 💡 **Innovators** pushing the boundaries of what's possible
+- 🎨 **Builders** who care deeply about craft and execution
+
+If you're creating something exceptional or just want to geek out about systems, AI, blockchain, or product design — I'm always down to connect.
+
+---
 
 <div align="center">
 
