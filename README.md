@@ -44,50 +44,6 @@ Open to connecting    →  Technical founders, ambitious builders, deep-tech inn
 Working style         →  Design first. Architect deliberately. Ship fast. Iterate.
 ```
 
-## Technical Depth
-
-**AI & Agentic Systems**
-```
-LangChain · LangGraph · CrewAI · RAG Pipelines · Vector Databases
-Multi-agent Orchestration · LLM Fine-tuning · Prompt Engineering
-```
-
-**Blockchain & Web3**
-```
-Ethereum · Solidity · Tezos · OCaml · Polygon · DeFi Primitives
-Cross-chain Bridges · AMMs · Tokenomics Design
-```
-
-**Full-Stack Engineering**
-```
-React · TypeScript · Node.js · Python · GraphQL · PostgreSQL
-Redis · Kafka · Elasticsearch · REST & gRPC APIs
-```
-
-**Infrastructure & DevOps**
-```
-AWS · Docker · Nginx · CI/CD Pipelines · System Design at Scale
-```
-
-**Design & Product**
-```
-Figma · Adobe XD · Design Systems · UX Architecture · Product Strategy
-```
-
----
-
-## Recognition
-|--|--|
-| 🏅 Nitor Brilliance Award — AI Innovation | 2024 |
-| 🏅 Developer of the Year | 2021 |
-| 🎤 Speaker — World Blockchain Summit | 2021 |
-| 🎙️ Guest — Coin Crunch & Voices of Tezos India | 2021 |
-| 🤝 Technical Advisor — Tezos Foundation, TriwebAPI, Polysports | 2019–2024 |
-| 🚀 Co-founded 2 startups, both shipped to production | 2020–2024 |
-| 💼 Closed significant enterprise AI contracts | 2024 |
-
----
-
 ## Approach
 
 I don't just write code — I think in systems. Every product I've shipped starts with a clear architectural vision, moves through deliberate design, and lands as something people actually want to use.
