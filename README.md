@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=Aditya%20Gautam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Technical+Founder;AI+%E2%80%A2+Blockchain+%E2%80%A2+Full-Stack+%E2%80%A2+Product+Design;Building+systems+that+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=400&height=60&lines=Technical+Founder" alt="Typing SVG" />
 </h3>
 
 <p>
