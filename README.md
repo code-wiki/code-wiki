@@ -77,7 +77,7 @@ Figma · Adobe XD · Design Systems · UX Architecture · Product Strategy
 ---
 
 ## Recognition
-
+|--|--|
 | 🏅 Nitor Brilliance Award — AI Innovation | 2024 |
 | 🏅 Developer of the Year | 2021 |
 | 🎤 Speaker — World Blockchain Summit | 2021 |
