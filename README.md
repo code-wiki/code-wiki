@@ -128,12 +128,9 @@ Built complete events and activities marketplace (Airbnb-style) from scratch for
 ```
 🥇  Nitor Brilliance Award for AI Innovation (2024)
 🥇  Developer of the Year — Plenty Labs (2021)
-🎯  Core Contributor to Grommet UI (Netflix, Samsung, HPE)
 🎤  Speaker — World Blockchain Summit
-🎙️  Guest — Coin Crunch Podcast & Voices of Tezos India
-🧑‍🏫  Advisor — Tezos India Foundation & Tezos APAC Foundation (2019-2021)
+🎙️  Guest — Coin Crunch Podcast & Voices of Tezos India Podcast
 🚀  Co-founded 2 startups, both shipped to production
-💼  Closed significant enterprise AI contracts
 👨‍💼  Technical Advisor — TriwebAPI, Polysports, Afleet
 ```
 
@@ -151,19 +148,7 @@ Built complete events and activities marketplace (Airbnb-style) from scratch for
 
 </div>
 
----
 
-## 🎯 What I'm Looking For
-
-I'm open to:
-- 🚀 **Co-Founder roles** in AI/Web3 startups
-- 🏢 **Director of Engineering** positions
-- 💡 **Advisory roles** in high-growth ventures
-- 🤝 **Technical partnerships** for ambitious projects
-
-If you're building something that matters and need someone who can architect systems, design beautiful UX, ship production code, and scale teams — let's talk.
-
----
 
 <div align="center">
 
