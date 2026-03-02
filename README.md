@@ -175,16 +175,17 @@ Core contributor to Grommet UI
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-wiki&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-wiki&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8&hide=html,css" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=code-wiki&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=code-wiki&theme=radical&utcOffset=8" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=code-wiki&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-wiki&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F&area_color=F85D7F&area=true&hide_border=true">
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-wiki&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F&area_color=F85D7F&area=true&hide_border=true" width="100%">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=code-wiki&theme=radical" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=code-wiki&theme=radical" />
 
 </div>
 
