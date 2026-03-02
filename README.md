@@ -44,54 +44,6 @@ Open to connecting    →  Technical founders, ambitious builders, deep-tech inn
 Working style         →  Design first. Architect deliberately. Ship fast. Iterate.
 ```
 
----
-
-## Selected Work
-
-<table>
-<thead>
-<tr>
-<th>System</th>
-<th>Description</th>
-<th>Stack</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Enterprise Agentic AI Platform</strong></td>
-<td>Multi-agent system for automated legacy code modernization — analysis, refactoring, migration at scale. Closed significant enterprise contracts.</td>
-<td><code>LangGraph</code> <code>CrewAI</code> <code>LLMs</code> <code>RAG</code></td>
-</tr>
-<tr>
-<td><strong>DeFi Protocol Suite</strong></td>
-<td>Full-stack blockchain infrastructure on Tezos: DEX, cross-chain bridges, yield farms, fundraising rails. Leading platform adopted across APAC.</td>
-<td><code>Tezos</code> <code>OCaml</code> <code>Solidity</code> <code>Polygon</code></td>
-</tr>
-<tr>
-<td><strong>eSports Tournament Platform</strong></td>
-<td>Real-time cross-chain tournament system bridging Web2 UX with Web3 payments. Prize pools, live tracking, multi-chain support.</td>
-<td><code>React</code> <code>Node.js</code> <code>Multi-chain</code></td>
-</tr>
-<tr>
-<td><strong>Tezster CLI/GUI + JS→OCaml Compiler</strong></td>
-<td>Open-source developer tooling for smart contract development. Widely adopted across the Tezos ecosystem.</td>
-<td><code>TypeScript</code> <code>OCaml</code> <code>CLI</code></td>
-</tr>
-<tr>
-<td><strong>Grommet UI — Core Contributor</strong></td>
-<td>Production-grade React component contributions. Adopted by Netflix, Samsung, HPE in production systems.</td>
-<td><code>React</code> <code>Storybook</code> <code>Design Systems</code></td>
-</tr>
-<tr>
-<td><strong>HPE Enterprise Monitoring Dashboard</strong></td>
-<td>Real-time server traffic visualization for HPE enterprise infrastructure. Information-dense, clean UX under operational constraints.</td>
-<td><code>React</code> <code>D3</code> <code>WebSockets</code></td>
-</tr>
-</tbody>
-</table>
-
----
-
 ## Technical Depth
 
 **AI & Agentic Systems**
@@ -126,8 +78,6 @@ Figma · Adobe XD · Design Systems · UX Architecture · Product Strategy
 
 ## Recognition
 
-| | |
-|---|---|
 | 🏅 Nitor Brilliance Award — AI Innovation | 2024 |
 | 🏅 Developer of the Year | 2021 |
 | 🎤 Speaker — World Blockchain Summit | 2021 |
